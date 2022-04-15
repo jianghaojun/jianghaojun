@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I’m currently a second-year Ph.D. student at Tsinghua University. 😄 A fan of Lebron James 
+### I’m currently a second-year Ph.D. student at Tsinghua University. A fan of Lebron James. 😄
 
 <!--**jianghaojun/jianghaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
