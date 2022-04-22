@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Haojun Jiang(蒋昊峻). I’m currently a second-year Ph.D. student at Tsinghua University. A fan of Lebron James. 😄
+My name is Haojun Jiang(蒋昊峻), a second-year Ph.D. student in the Department of Automation at Tsinghua University, advised by Prof. [Gao Huang](http://www.gaohuang.net/). Before that, I received my B.E. degree in Automation at Tsinghua University. 😄
 
 <!--**jianghaojun/jianghaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
