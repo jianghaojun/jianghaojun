@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently a second-year Ph.D. student at Tsinghua University. A fan of Lebron James. 😄
+My name is Haojun Jiang(蒋昊峻). I’m currently a second-year Ph.D. student at Tsinghua University. A fan of Lebron James. 😄
 
 <!--**jianghaojun/jianghaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 [![Haojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianghaojun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact 📫
-My email is jhj20 at mails.tsinghua.edu.cn.
+My email is jhj20 at mails.tsinghua.edu.cn. 
