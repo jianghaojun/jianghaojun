@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Haojun Jiang(蒋昊峻), a second-year Ph.D. student in the Department of Automation at Tsinghua University, advised by Prof. [Gao Huang](http://www.gaohuang.net/). Before that, I received my B.E. degree in Automation at Tsinghua University. 😄
 
+🔭 I’m currently working on vision and language, especially 2D/[3D visual grounding](https://github.com/jianghaojun/Awesome-3D-Visual-Grounding).
+
 <!--**jianghaojun/jianghaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
