@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### 💬 News 
-**[2022/04]**: A curated list about [3D Visual Grounding](https://github.com/jianghaojun/Awesome-3D-Visual-Grounding) is created.
+**[2022/04]**: A curated list about [3D Visual Grounding](https://github.com/jianghaojun/Awesome-3D-Visual-Grounding) is created.  
 **[2022/03]**: [Pseudo-Q](https://arxiv.org/abs/2203.08481) and [AdaFocusV2](https://arxiv.org/abs/2112.14238) are accepted by CVPR 2022!  
 **[2021/07]**: [AdaFocus](https://arxiv.org/abs/2105.03245) is accepted by ICCV 2021!  
 **[2021/03]**: [CondenseNetV2](https://arxiv.org/abs/2104.04382) is accepted by CVPR 2021!  
