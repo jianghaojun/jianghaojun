@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### 💬 News 
-**[2022/07]**: [AI Time](http://www.aitime.cn/) invites me to give a talk about [Pseudo-Q](https://arxiv.org/abs/2203.08481).
+**[2022/07]**: [AI Time](http://www.aitime.cn/) invites me to give a talk about [Pseudo-Q](https://arxiv.org/abs/2203.08481).  
 **[2022/04]**: A curated list about [3D Vision and Language](https://github.com/jianghaojun/Awesome-3D-Visual-Grounding) is created.  
 **[2022/03]**: [Pseudo-Q](https://arxiv.org/abs/2203.08481) and [AdaFocusV2](https://arxiv.org/abs/2112.14238) are accepted by CVPR 2022!  
 **[2021/07]**: [AdaFocus](https://arxiv.org/abs/2105.03245) is accepted by ICCV 2021!  
