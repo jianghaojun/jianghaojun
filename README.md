@@ -30,10 +30,11 @@ Here are some ideas to get you started:
 ### 📫 Contact 
 My email is jhj20 at mails.tsinghua.edu.cn. 
 
-### ✨ GitHub Stats 
+<!--### ✨ GitHub Stats 
 [![Haojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianghaojun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Visitors
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/jianghaojun/count.svg" />
 </p>
+-->
