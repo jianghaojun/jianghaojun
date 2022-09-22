@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💬 News 
+### 💬 News
+**[2022/09]**: An introduction about [Parameter Efficient Transfer Learning](https://cloud.tsinghua.edu.cn/f/73309dec3ea3496db459/?dl=1) is given in [BAAI](https://www.baai.ac.cn/english.html) dynamic neural network seminar.  
 **[2022/07]**: [AI Time](http://www.aitime.cn/) invites me to give a talk about [Pseudo-Q](https://www.bilibili.com/video/BV1LB4y1e7kT?spm_id_from=333.337.search-card.all.click&vd_source=17f8133aaca9f7f8e61c08b61e26d162).  
+**[2022/04]**: An introduction about [3D Visual Grounding](https://cloud.tsinghua.edu.cn/f/31f0f6930817424db210/?dl=1) is given in [BAAI](https://www.baai.ac.cn/english.html) dynamic neural network seminar.  
 **[2022/04]**: A curated list about [3D Vision and Language](https://github.com/jianghaojun/Awesome-3D-Visual-Grounding) is created.  
 **[2022/03]**: [Pseudo-Q](https://arxiv.org/abs/2203.08481) and [AdaFocusV2](https://arxiv.org/abs/2112.14238) are accepted by CVPR 2022!  
 **[2021/07]**: [AdaFocus](https://arxiv.org/abs/2105.03245) is accepted by ICCV 2021!  
