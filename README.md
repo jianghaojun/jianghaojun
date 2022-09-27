@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### 💬 News
 **[2022/09]**: An introduction about [Parameter Efficient Transfer Learning](https://cloud.tsinghua.edu.cn/f/73309dec3ea3496db459/?dl=1) is given in [BAAI](https://www.baai.ac.cn/english.html) dynamic neural network seminar.  
+**[2022/07]**: [Glance and Focus Networks for Dynamic Visual Recognition](https://arxiv.org/pdf/2201.03014.pdf) is accepted by TPAMI (IF=24.31)!  
 **[2022/07]**: [AI Time](http://www.aitime.cn/) invites me to give a talk about [Pseudo-Q](https://www.bilibili.com/video/BV1LB4y1e7kT?spm_id_from=333.337.search-card.all.click&vd_source=17f8133aaca9f7f8e61c08b61e26d162).  
 **[2022/04]**: An introduction about [3D Visual Grounding](https://cloud.tsinghua.edu.cn/f/31f0f6930817424db210/?dl=1) is given in [BAAI](https://www.baai.ac.cn/english.html) dynamic neural network seminar.  
 **[2022/04]**: A curated list about [3D Vision and Language](https://github.com/jianghaojun/Awesome-3D-Visual-Grounding) is created.  
