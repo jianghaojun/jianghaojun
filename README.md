@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Haojun Jiang(蒋昊峻), a second-year Ph.D. student in the Department of Automation at Tsinghua University, advised by Prof. [Gao Huang](http://www.gaohuang.net/). Before that, I received my B.E. degree in Automation at Tsinghua University. 😄
+My name is Haojun Jiang(蒋昊峻), a third-year Ph.D. student in the Department of Automation at Tsinghua University, advised by Prof. [Gao Huang](http://www.gaohuang.net/). Before that, I received my B.E. degree in Automation at Tsinghua University. 😄
 
 I’m currently working on vision and language, especially in [3D domain](https://github.com/jianghaojun/Awesome-3D-Visual-Grounding).
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 **[2021/03]**: [CondenseNetV2](https://arxiv.org/abs/2104.04382) is accepted by CVPR 2021!  
 
 ### 🌱 Academic Services 
-- **Conference Reviewer**: CVPR 2021, ECCV 2022
+- **Conference Reviewer**: CVPR 2022, ECCV 2022
 
 ### 📫 Contact 
 My email is jhj20 at mails.tsinghua.edu.cn. 
