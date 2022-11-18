@@ -41,4 +41,7 @@ My email is jhj20 at mails.tsinghua.edu.cn.
 <!-- <p align="left"> 
   <img src="https://profile-counter.glitch.me/jianghaojun/count.svg" />
 </p> -->
-<a href="https://www.easycounter.com/"> <img src="https://www.easycounter.com/counter.php?jhj20" border="0" alt="stats counter"></a>
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?jhj20"
+border="0" alt="stats counter"></a>
+<br><a href="https://www.easycounter.com/"></a>
