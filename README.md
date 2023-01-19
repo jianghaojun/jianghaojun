@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 -->
 
 ### 💬 News
+**[2023/01]**: **Text4Point** now is available at [arXiv](https://arxiv.org/abs/2301.07584). This work propose a novel Text4Point framework to construct **language-guided 3D point cloud models**. The key idea is utilizing 2D images as a bridge to connect the point cloud and the language modalities.    
 **[2022/12]**: A curated list about [Parameter Efficient Transfer Learning](https://github.com/jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning) in computer vision and multimodal is created.  
-**[2022/12]**: [Deep Model Assembling](https://arxiv.org/abs/2212.04129) now is available at arXiv. This work explores a novel **Modular Training** paradigm which divides a large model into smaller modules, trains them independently, and reassembles the trained modules to obtain the target model.  
-**[2022/11]**: [Cross-Modal Adpater](https://arxiv.org/abs/2211.09623) now is available at arXiv. This work explores the **adapter-based parameter-efficient transfer learning** for text-video retrieval domain. It reduces **99.6\%** of fine-tuned parameters without performance degradation.  
+**[2022/12]**: **Deep Model Assembling** now is available at [arXiv](https://arxiv.org/abs/2212.04129). This work explores a novel **Modular Training** paradigm which divides a large model into smaller modules, trains them independently, and reassembles the trained modules to obtain the target model.  
+**[2022/11]**: **Cross-Modal Adpater** now is available at [arXiv](https://arxiv.org/abs/2211.09623). This work explores the **adapter-based parameter-efficient transfer learning** for text-video retrieval domain. It reduces **99.6\%** of fine-tuned parameters without performance degradation.  
 **[2022/09]**: An introduction about [Parameter Efficient Transfer Learning](https://cloud.tsinghua.edu.cn/f/73309dec3ea3496db459/?dl=1) is given in [BAAI](https://www.baai.ac.cn/english.html) dynamic neural network seminar.  
 **[2022/07]**: [Glance and Focus Networks for Dynamic Visual Recognition](https://arxiv.org/pdf/2201.03014.pdf) is accepted by TPAMI (IF=24.31)!  
 **[2022/07]**: [AI Time](http://www.aitime.cn/) invites me to give a talk about [Pseudo-Q](https://www.bilibili.com/video/BV1LB4y1e7kT?spm_id_from=333.337.search-card.all.click&vd_source=17f8133aaca9f7f8e61c08b61e26d162).  
