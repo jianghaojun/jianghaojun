@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 **[2021/03]**: [CondenseNetV2](https://arxiv.org/abs/2104.04382) is accepted by CVPR 2021!  
 
 ### 🌱 Academic Services 
-- **Conference Reviewer**: CVPR 2022-2023, ECCV 2022
+- **Conference Reviewer**: CVPR 2022-2023, ICCV 2023, ECCV 2022
 
 ### 📫 Contact 
 My email is jhj20 at mails.tsinghua.edu.cn. 
