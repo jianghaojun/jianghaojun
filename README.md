@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 -->
 
 ### 💬 News
+**[2023/07]**: **Deep Incubation: Training Large Models by Divide-and-Conquering**(https://arxiv.org/abs/2212.04129) is accepted by ICCV 2023! Paper is available at [arXiv](https://arxiv.org/abs/2212.04129).    
 **[2023/01]**: **Text4Point** now is available at [arXiv](https://arxiv.org/abs/2301.07584). This work propose a novel Text4Point framework to construct **language-guided 3D point cloud models**. The key idea is utilizing 2D images as a bridge to connect the point cloud and the language modalities.    
 **[2022/12]**: A curated list about [Parameter Efficient Transfer Learning](https://github.com/jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning) in computer vision and multimodal is created.  
-**[2022/12]**: **Deep Model Assembling** now is available at [arXiv](https://arxiv.org/abs/2212.04129). This work explores a novel **Modular Training** paradigm which divides a large model into smaller modules, trains them independently, and reassembles the trained modules to obtain the target model.  
+**[2022/12]**: **Deep Incubation: Training Large Models by Divide-and-Conquering** now is available at [arXiv](https://arxiv.org/abs/2212.04129). This work explores a novel **Modular Training** paradigm which divides a large model into smaller modules, trains them independently, and reassembles the trained modules to obtain the target model.  
 **[2022/11]**: **Cross-Modal Adpater** now is available at [arXiv](https://arxiv.org/abs/2211.09623). This work explores the **adapter-based parameter-efficient transfer learning** for text-video retrieval domain. It reduces **99.6\%** of fine-tuned parameters without performance degradation.  
 **[2022/09]**: An introduction about [Parameter Efficient Transfer Learning](https://cloud.tsinghua.edu.cn/f/73309dec3ea3496db459/?dl=1) is given in [BAAI](https://www.baai.ac.cn/english.html) dynamic neural network seminar.  
 **[2022/07]**: [Glance and Focus Networks for Dynamic Visual Recognition](https://arxiv.org/pdf/2201.03014.pdf) is accepted by TPAMI (IF=24.31)!  
