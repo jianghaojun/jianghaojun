@@ -1,7 +1,9 @@
 ### Hi there 👋
-My name is Haojun Jiang(蒋昊峻), a third-year Ph.D. student in the Department of Automation at Tsinghua University, advised by Prof. [Gao Huang](http://www.gaohuang.net/). Before that, I received my B.E. degree in Automation at Tsinghua University. 😄
+My name is Haojun Jiang(蒋昊峻), a fourth-year Ph.D. student in the Department of Automation at Tsinghua University, advised by Prof. [Gao Huang](http://www.gaohuang.net/). Before that, I received my B.E. degree in Automation at Tsinghua University. 😄
 
-I’m currently working on vision and language.
+_**Beginning in May (2023), I will be shifting my focus to the research of autonomous medical ultrasound systems. My commitment will be towards revolutionizing ultrasound examinations by making them more intelligent and autonomous, thereby liberating doctors' hands and enhancing medical efficiency.**_
+
+~~I’m currently working on vision and language.~~
 
 <!--**jianghaojun/jianghaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +20,8 @@ Here are some ideas to get you started:
 -->
 
 ### 💬 News
-**[2023/07]**: **Deep Incubation: Training Large Models by Divide-and-Conquering** is accepted by ICCV 2023! Paper is available at [arXiv](https://arxiv.org/abs/2212.04129).    
+**[2023/07]**: **Deep Incubation: Training Large Models by Divide-and-Conquering** is accepted by ICCV 2023! Paper is available at [arXiv](https://arxiv.org/abs/2212.04129).  
+**[2023/05]**: I will be shifting my focus to the research of autonomous medical ultrasound systems.  
 **[2023/01]**: **Text4Point** now is available at [arXiv](https://arxiv.org/abs/2301.07584). This work propose a novel Text4Point framework to construct **language-guided 3D point cloud models**. The key idea is utilizing 2D images as a bridge to connect the point cloud and the language modalities.    
 **[2022/12]**: A curated list about [Parameter Efficient Transfer Learning](https://github.com/jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning) in computer vision and multimodal is created.  
 **[2022/12]**: **Deep Incubation: Training Large Models by Divide-and-Conquering** now is available at [arXiv](https://arxiv.org/abs/2212.04129). This work explores a novel **Modular Training** paradigm which divides a large model into smaller modules, trains them independently, and reassembles the trained modules to obtain the target model.  
