@@ -1,7 +1,9 @@
 ### Hi there 👋
 My name is Haojun Jiang(蒋昊峻), a fourth-year Ph.D. student in the Department of Automation at Tsinghua University, advised by Prof. [Gao Huang](http://www.gaohuang.net/). Before that, I received my B.E. degree in Automation at Tsinghua University. 😄
 
-_**Beginning in May (2023), I will be shifting my focus to the research of autonomous medical ultrasound systems. My commitment will be towards revolutionizing ultrasound examinations by making them more intelligent and autonomous, thereby liberating doctors' hands and enhancing medical efficiency.**_
+_**Beginning in May (2023), I will be shifting my focus to the research of autonomous medical ultrasound systems. My commitment will be towards revolutionizing ultrasound examinations by making them more intelligent and autonomous, thereby liberating doctors' hands and enhancing medical efficiency.**_ 
+
+If you are also passionate about research in this area, please feel free to reach out using the contact details below. I am always open for a fruitful exchange of ideas.
 
 ~~I’m currently working on vision and language.~~
 
@@ -39,7 +41,9 @@ Here are some ideas to get you started:
 - **Conference Reviewer**: CVPR 2022-2023, ICCV 2023, ECCV 2022
 
 ### 📫 Contact 
-My email is jhj20 at mails.tsinghua.edu.cn. 
+Please include a brief note about the reason for reaching out when you contact me. 
+- E-mail：jhj20 at mails.tsinghua.edu.cn  
+- Wechat：LebronJames5Champ
 
 ### ✨ GitHub Stats 
 [![Haojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianghaojun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
