@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Haojun Jiang(蒋昊峻), a fourth-year Ph.D. student in the Department of Automation at Tsinghua University, advised by Prof. [Gao Huang](http://www.gaohuang.net/). Before that, I received my B.E. degree in Automation at Tsinghua University. 😄
+My name is Haojun Jiang(蒋昊峻) [[My Google Scholar](https://scholar.google.com/schhp?hl=en)], a fourth-year Ph.D. student in the Department of Automation at Tsinghua University, advised by Prof. [Gao Huang](http://www.gaohuang.net/). Before that, I received my B.E. degree in Automation at Tsinghua University. 😄
 
 _**Beginning in May (2023), I will be shifting my focus to the research of autonomous medical ultrasound systems. My commitment will be towards revolutionizing ultrasound examinations by making them more intelligent and autonomous, thereby liberating doctors' hands and enhancing medical efficiency.**_ 
 
@@ -7,10 +7,10 @@ If you are also passionate about research in this area, please feel free to reac
 
 ~~I’m currently working on vision and language.~~
 
+
 <!--**jianghaojun/jianghaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 😄 Projects
+- Cross-Modal Adapter [[Paper](https://arxiv.org/abs/2211.09623)][Code]
+- Pseudo-Q CVPR'22 [[Paper](https://arxiv.org/abs/2203.08481)][[Code](https://github.com/LeapLabTHU/Pseudo-Q)]
+- CondenseNetV2 CVPR'21 [[Paper](https://arxiv.org/abs/2104.04382)][[Code](https://github.com/jianghaojun/CondenseNetV2)]
+- AdaFocus ICCV'21 [[Paper](https://arxiv.org/abs/2105.03245)][[Code](https://github.com/blackfeather-wang/AdaFocus)]
 
 ### 💬 News
 **[2023/07]**: **Deep Incubation: Training Large Models by Divide-and-Conquering** is accepted by ICCV 2023! Paper is available at [arXiv](https://arxiv.org/abs/2212.04129).  
