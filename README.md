@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ### 😄 Projects
-- Fully Autonomous Ultrasound Robot for Authentic Clinical Scenario. Coming soon!
+- Enabling the Future of Ultrasonography with an Autonomous Robot: A Focus on Practical Value. Coming soon!
 - Cross-Modal Adapter [[Paper](https://arxiv.org/abs/2211.09623)][Code]
 - Pseudo-Q CVPR'22 [[Paper](https://arxiv.org/abs/2203.08481)][[Code](https://github.com/LeapLabTHU/Pseudo-Q)]
 - CondenseNetV2 CVPR'21 [[Paper](https://arxiv.org/abs/2104.04382)][[Code](https://github.com/jianghaojun/CondenseNetV2)]
