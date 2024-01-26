@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 -->
 
 ### 😄 Projects
-- Towards Expert-level Autonomous Ultrasonography Using AI-Driven Robotic System
+- The World's First Autonomous Echocardiography Robotic System (Under Progress).
+- Towards Expert-level Autonomous Ultrasonography Using AI-Driven Robotic System (Under Review).
 - Cross-Modal Adapter [[Paper](https://arxiv.org/abs/2211.09623)][Code]
 - Pseudo-Q CVPR'22 [[Paper](https://arxiv.org/abs/2203.08481)][[Code](https://github.com/LeapLabTHU/Pseudo-Q)]
 - CondenseNetV2 CVPR'21 [[Paper](https://arxiv.org/abs/2104.04382)][[Code](https://github.com/jianghaojun/CondenseNetV2)]
