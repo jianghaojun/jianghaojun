@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 - CondenseNetV2 CVPR'21 [[Paper](https://arxiv.org/abs/2104.04382)][[Code](https://github.com/jianghaojun/CondenseNetV2)]
 - AdaFocus ICCV'21 [[Paper](https://arxiv.org/abs/2105.03245)][[Code](https://github.com/blackfeather-wang/AdaFocus)]
 
+### 😄 Awesome Collections
+- Awesome Parameter Efficient Transfer Learning [[Repo](https://github.com/jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning)]
+- Awesome Autonomous Medical Ultrasound System [[Repo](https://github.com/jianghaojun/Awesome-Autonomous-Medical-Ultrasound-System)]
+
 ### 💬 News
 **[2024/01]**: Our intelligent ultrasound robot won the **[First Prize (1/245)](https://mp.weixin.qq.com/s/3IQnf3ks9xhFrhKI1xVSUg)** at the [Global Artificial Intelligence and Robotics Innovation Competition](http://gqcup-os.gqy.tsinghua.edu.cn:8080/) organized by the Guoqiang Research Institute of Tsinghua University.  
 **[2023/07]**: **Deep Incubation: Training Large Models by Divide-and-Conquering** is accepted by ICCV 2023! Paper is available at [arXiv](https://arxiv.org/abs/2212.04129).  
