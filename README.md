@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Haojun Jiang(蒋昊峻) [[My Google Scholar](https://scholar.google.com/citations?user=ULmStp8AAAAJ&hl=en)], a fourth-year Ph.D. student in the Department of Automation at Tsinghua University, advised by Prof. [Gao Huang](http://www.gaohuang.net/). Before that, I received my B.E. degree in Automation at Tsinghua University. 😄
 
+_**Beginning in May (2023), I will be shifting my focus to the research of autonomous medical ultrasound systems. My commitment will be towards revolutionizing ultrasound examinations by making them more intelligent and autonomous, thereby liberating doctors' hands and enhancing medical efficiency.**_ 
+
 If you are also passionate about research in this area, please feel free to reach out using the contact details below. I am always open for a fruitful exchange of ideas.
 
 ~~I’m currently working on vision and language.~~
@@ -20,6 +22,9 @@ Here are some ideas to get you started:
 -->
 
 ### 😄 Projects
+- Probe Guidance for Echocardiography (TTE, Under Progress).
+- The World's First Autonomous Echocardiography (TTE) Robotic System (Under Progress).
+- Towards Expert-level Autonomous Ultrasonography Using AI-Driven Robotic System (Under Review).
 - Cross-Modal Adapter [[Paper](https://arxiv.org/abs/2211.09623)][Code]
 - Pseudo-Q CVPR'22 [[Paper](https://arxiv.org/abs/2203.08481)][[Code](https://github.com/LeapLabTHU/Pseudo-Q)]
 - CondenseNetV2 CVPR'21 [[Paper](https://arxiv.org/abs/2104.04382)][[Code](https://github.com/jianghaojun/CondenseNetV2)]
