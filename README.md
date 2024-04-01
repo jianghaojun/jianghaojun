@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### 💬 News
 **[2024/03]**: I was selected for the [Tsinghua University 'Qi Chuang' Student Entrepreneurship Talent Program (20/60000)](https://mp.weixin.qq.com/s/bI7CmFoI8880GtJxMV28Uw) due to our innovative prototype in the field of intelligent autonomous ultrasound robots.  
 **[2024/01]**: Our intelligent autonomous ultrasound robot won the **[First Prize (1/245)](https://mp.weixin.qq.com/s/3IQnf3ks9xhFrhKI1xVSUg)** at the [Global Artificial Intelligence and Robotics Innovation Competition](http://gqcup-os.gqy.tsinghua.edu.cn:8080/) organized by the Guoqiang Research Institute of Tsinghua University.  
-**[2023/12]**: Our intelligent autonomous ultrasound robot has been selected as one of the top 10 in the Tsinghua Medical-Engineering Innovation Competition.  
+**[2023/12]**: Our intelligent autonomous ultrasound robot has been selected as one of the **Top-10** in the Tsinghua Medical-Engineering Innovation Competition.  
 **[2023/07]**: **Deep Incubation: Training Large Models by Divide-and-Conquering** is accepted by ICCV 2023! Paper is available at [arXiv](https://arxiv.org/abs/2212.04129).  
 **[2023/05]**: I will be shifting my focus to the research of autonomous medical ultrasound systems.  
 **[2023/01]**: **Text4Point** now is available at [arXiv](https://arxiv.org/abs/2301.07584). This work propose a novel Text4Point framework to construct **language-guided 3D point cloud models**. The key idea is utilizing 2D images as a bridge to connect the point cloud and the language modalities.    
