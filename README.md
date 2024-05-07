@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### 💬 News
 **[2024/04]**: Our intelligent autonomous ultrasound robot won the **[Silver Award](https://mp.weixin.qq.com/s/fdXa1T2ZeR5FAWVE7XHFzQ)** at the Tsinghua Challenge Cup Entrepreneurship Competition.  
 **[2024/03]**: I was selected for the [Tsinghua University 'Qi Chuang' Student Entrepreneurship Talent Program (20/60000)](https://mp.weixin.qq.com/s/bI7CmFoI8880GtJxMV28Uw) due to our innovative prototype in the field of intelligent autonomous ultrasound robots.  
-**[2024/01]**: Our intelligent autonomous ultrasound robot won the **[First Prize (1/245)](https://mp.weixin.qq.com/s/3IQnf3ks9xhFrhKI1xVSUg)** at the [Global Artificial Intelligence and Robotics Innovation Competition](http://gqcup-os.gqy.tsinghua.edu.cn:8080/) organized by the Guoqiang Research Institute of Tsinghua University.  
+**[2024/01]**: Our intelligent autonomous ultrasound robot won the **[First Prize (1/245)](https://mp.weixin.qq.com/s/KjNxJn9RK4nBqRgXhSEPLA)** at the [Global Artificial Intelligence and Robotics Innovation Competition](http://gqcup-os.gqy.tsinghua.edu.cn:8080/) organized by the Guoqiang Research Institute of Tsinghua University.  
 **[2023/12]**: Our intelligent autonomous ultrasound robot has been selected as one of the **Top-10** in the Tsinghua Medical-Engineering Innovation Competition.  
 **[2023/07]**: **Deep Incubation: Training Large Models by Divide-and-Conquering** is accepted by ICCV 2023! Paper is available at [arXiv](https://arxiv.org/abs/2212.04129).  
 **[2023/05]**: I will be shifting my focus to the research of autonomous medical ultrasound systems.  
