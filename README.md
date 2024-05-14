@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ### 😄 Projects
-- Probe Guidance for Echocardiography (TTE, Under Progress).
+- Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model. MICCAI'24 Early Accept [Paper will come soon ...]
 - The World's First Autonomous Echocardiography (TTE) Robotic System (Under Progress).
 - Towards Expert-level Autonomous Ultrasonography Using AI-Driven Robotic System (Under Review).
 - Cross-Modal Adapter [[Paper](https://arxiv.org/abs/2211.09623)][Code]
@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 - Awesome Autonomous Medical Ultrasound System [[Repo](https://github.com/jianghaojun/Awesome-Autonomous-Medical-Ultrasound-System)]
 
 ### 💬 News
-**[2024/04]**: Our intelligent autonomous ultrasound robot won the **[Silver Award](https://mp.weixin.qq.com/s/fdXa1T2ZeR5FAWVE7XHFzQ)** at the Tsinghua Challenge Cup Entrepreneurship Competition.  
+**[2024/05]**: **Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model** is early accepted by MICCAI 2024!  
+**[2024/04]**: Our intelligent autonomous ultrasound robot won the **[Silver Award](https://mp.weixin.qq.com/s/fdXa1T2ZeR5FAWVE7XHFzQ)** at the Tsinghua Challenge Cup Entrepreneurship Competition and was recommended to represent Tsinghua University in Beijing municipal competitions.  
 **[2024/03]**: I was selected for the [Tsinghua University 'Qi Chuang' Student Entrepreneurship Talent Program (20/60000)](https://mp.weixin.qq.com/s/bI7CmFoI8880GtJxMV28Uw) due to our innovative prototype in the field of intelligent autonomous ultrasound robots.  
 **[2024/01]**: Our intelligent autonomous ultrasound robot won the **[First Prize (1/245)](https://mp.weixin.qq.com/s/KjNxJn9RK4nBqRgXhSEPLA)** at the [Global Artificial Intelligence and Robotics Innovation Competition](http://gqcup-os.gqy.tsinghua.edu.cn:8080/) organized by the Guoqiang Research Institute of Tsinghua University.  
 **[2023/12]**: Our intelligent autonomous ultrasound robot has been selected as one of the **Top-10** in the Tsinghua Medical-Engineering Innovation Competition.  
