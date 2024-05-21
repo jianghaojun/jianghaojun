@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 -->
 
 ### 😄 Projects
-- The World's First Autonomous Echocardiography (TTE) Robotic System (Under Progress)
-- Towards Expert-level Autonomous Ultrasonography Using AI-Driven Robotic System (Under Review on Nature Machine Intelligence)
-- Cardiac Copilot MICCAI'24 Early Accept [Paper][Code]
-- Cross-Modal Adapter [[Paper](https://arxiv.org/abs/2211.09623)][Code]
-- Pseudo-Q CVPR'22 [[Paper](https://arxiv.org/abs/2203.08481)][[Code](https://github.com/LeapLabTHU/Pseudo-Q)]
-- CondenseNetV2 CVPR'21 [[Paper](https://arxiv.org/abs/2104.04382)][[Code](https://github.com/jianghaojun/CondenseNetV2)]
-- AdaFocus ICCV'21 [[Paper](https://arxiv.org/abs/2105.03245)][[Code](https://github.com/blackfeather-wang/AdaFocus)]
+- The World's First Autonomous Echocardiography (TTE) Robotic System _(Under Progress)_
+- Towards Expert-level Autonomous Ultrasonography Using AI-Driven Robotic System _(Under Review on Nature Machine Intelligence)_
+- Cardiac Copilot _MICCAI'24 Early Accept_ [Paper][Code]
+- Cross-Modal Adapter _(Under Review)_     [[Paper](https://arxiv.org/abs/2211.09623)][Code]
+- Pseudo-Q        _CVPR'22_                [[Paper](https://arxiv.org/abs/2203.08481)][[Code](https://github.com/LeapLabTHU/Pseudo-Q)]
+- CondenseNetV2   _CVPR'21_                [[Paper](https://arxiv.org/abs/2104.04382)][[Code](https://github.com/jianghaojun/CondenseNetV2)]
+- AdaFocus        _ICCV'21_                [[Paper](https://arxiv.org/abs/2105.03245)][[Code](https://github.com/blackfeather-wang/AdaFocus)]
 
 ### 😄 Awesome Collections
 - Awesome Parameter Efficient Transfer Learning [[Repo](https://github.com/jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning)]
