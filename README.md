@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - Awesome Autonomous Medical Ultrasound System [[Repo](https://github.com/jianghaojun/Awesome-Autonomous-Medical-Ultrasound-System)]
 
 ### 💬 News
+**[2024/06]**: Our intelligent autonomous ultrasound robot won the **[Gold Award]()** at the Beijing Challenge Cup Entrepreneurship Competition and was recommended to represent Tsinghua University in national competitions.  
 **[2024/05]**: **Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model** is early accepted by MICCAI 2024 (Top 11%)!  
 **[2024/04]**: Our intelligent autonomous ultrasound robot won the **[Silver Award](https://mp.weixin.qq.com/s/fdXa1T2ZeR5FAWVE7XHFzQ)** at the Tsinghua Challenge Cup Entrepreneurship Competition and was recommended to represent Tsinghua University in Beijing municipal competitions.  
 **[2024/03]**: I was selected for the [Tsinghua University 'Qi Chuang' Student Entrepreneurship Talent Program (20/60000)](https://mp.weixin.qq.com/s/bI7CmFoI8880GtJxMV28Uw) due to our innovative prototype in the field of intelligent autonomous ultrasound robots.  
