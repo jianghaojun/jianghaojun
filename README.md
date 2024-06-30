@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 ### 😄 Projects
 - The World's First Autonomous Echocardiography (TTE) Robotic System (_Under Progress_)
 - Towards Expert-level Autonomous Ultrasonography Using AI-Driven Robotic System (_Under Review on Nature Machine Intelligence_)
-- Cardiac Copilot (_MICCAI'24 Early Accept_) [[Paper](http://arxiv.org/abs/2406.13165)][Code]
+- Structure-aware Cardiac World Model (_Under Review_) [Paper][Code]
+- Cardiac Copilot for Probe Guidance (_MICCAI'24 Early Accept_) [[Paper](http://arxiv.org/abs/2406.13165)][Code]
 - Cross-Modal Adapter (_Under Review_)     [[Paper](https://arxiv.org/abs/2211.09623)][[Code](https://github.com/LeapLabTHU/Cross-Modal-Adapter)]
 - Pseudo-Q        (_CVPR'22_)                [[Paper](https://arxiv.org/abs/2203.08481)][[Code](https://github.com/LeapLabTHU/Pseudo-Q)]
 - CondenseNetV2   (_CVPR'21_)                [[Paper](https://arxiv.org/abs/2104.04382)][[Code](https://github.com/jianghaojun/CondenseNetV2)]
