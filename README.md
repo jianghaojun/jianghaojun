@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - Awesome Autonomous Medical Ultrasound System [[Repo](https://github.com/jianghaojun/Awesome-Autonomous-Medical-Ultrasound-System)]
 
 ### 💬 News
+**[2024/07]**: Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train now is available at [arXiv](https://arxiv.org/abs/2406.19756)!  
 **[2024/06]**: Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model now is available at [arXiv](http://arxiv.org/abs/2406.13165)!  
 **[2024/06]**: Our intelligent autonomous ultrasound robot won the **[Gold Award]()** at the Beijing Challenge Cup Entrepreneurship Competition and was recommended to represent Tsinghua University in national competitions.  
 **[2024/06]**: I was selected for Tsinghua University iCenter's [Maker Star Program](https://mp.weixin.qq.com/s/IeQXQZAgocu6yQmqhvnpnw).  
