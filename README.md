@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 
 ### 💬 News
 **[2024/07]**: Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train now is available at [arXiv](https://arxiv.org/abs/2406.19756)!  
-**[2024/06]**: We won the championship of China-American Maker Competition in the Tsinghua University!  
 **[2024/06]**: We were selected into the top ten student innovation and entrepreneurship teams of Tsinghua University - Tsinghua University's highest honor for innovation and entrepreneurship!  
 **[2024/06]**: Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model now is available at [arXiv](http://arxiv.org/abs/2406.13165)!  
 **[2024/06]**: Our intelligent autonomous ultrasound robot won the **[Gold Award]()** at the Beijing Challenge Cup Entrepreneurship Competition and was recommended to represent Tsinghua University in national competitions.  
