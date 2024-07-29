@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ### 📫 Contact 
 Please include a brief note about the reason for reaching out when you contact me. 
-- E-mail：jianghaojunthu@163.com  
+- E-mail：jianghaojunthu at 163.com  
 - Wechat：LebronJames5Champ
 
 ### ✨ GitHub Stats 
