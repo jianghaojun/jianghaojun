@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - Awesome Autonomous Medical Ultrasound System [[Repo](https://github.com/jianghaojun/Awesome-Autonomous-Medical-Ultrasound-System)]
 
 ### 💬 News
+**[2024/08]**: **Sequence-aware Pre-training for Echocardiography Probe Guidance** is available at [arXiv](https://arxiv.org/abs/2406.19756)!  
 **[2024/07]**: **Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train** is accepted by MICCAI 2024 5th ASMUS Workshop and is available at [arXiv](https://arxiv.org/abs/2406.19756)!  
 **[2024/06]**: We were selected into the top ten student innovation and entrepreneurship teams of Tsinghua University - Tsinghua University's highest honor for innovation and entrepreneurship!  
 **[2024/06]**: Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model now is available at [arXiv](http://arxiv.org/abs/2406.13165)!  
