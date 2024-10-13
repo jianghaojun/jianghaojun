@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Towards Expert-level Autonomous Ultrasonography Using AI-Driven Robotic System (Keywords: Embodied Medical Robot) (_Under Progress_)
 - Sequence-aware Pre-training (Keywords: Vision-Action Pre-training, Sequential modeling, Joint 2D-3D Structure Modeling) (_Under Progress_) [[Paper](https://arxiv.org/abs/2408.15026)]
 - Structure-aware Cardiac World Model (Keywords: Vision-Action Pre-training, Joint 2D-3D Structure Modeling) (_MICCAI'24 5th ASMUS Workshop Oral_) [[Paper](https://arxiv.org/abs/2406.19756)]
-- Cardiac Copilot for Echocardiography Probe Guidance (Keywords: Vision-Action Pre-training, 3D Structure Modeling) (_MICCAI'24 Early Accept_) [[Paper](http://arxiv.org/abs/2406.13165)]
+- Cardiac Copilot for Echocardiography Probe Guidance (Keywords: Vision-Action Pre-training, 3D Structure Modeling) (_MICCAI'24 Early Accept_) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_18)]
 - Cross-Modal Adapter (Keywords: Vision-Language Alignment, Text-Image/Video Retrieval) (_Under Review_)     [[Paper](https://arxiv.org/abs/2211.09623)][[Code](https://github.com/LeapLabTHU/Cross-Modal-Adapter)]
 - Pseudo-Q        (Keywords: Vision-Language Alignment) (_CVPR'22_)                [[Paper](https://arxiv.org/abs/2203.08481)][[Code](https://github.com/LeapLabTHU/Pseudo-Q)]
 - CondenseNetV2   (Keywords: Edge and Lightweight Model Architecture) (_CVPR'21_)                [[Paper](https://arxiv.org/abs/2104.04382)][[Code](https://github.com/jianghaojun/CondenseNetV2)]
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 **[2024/08]**: **Sequence-aware Pre-training for Echocardiography Probe Guidance** is available at [arXiv](https://arxiv.org/abs/2406.19756)!  
 **[2024/07]**: **Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train** is accepted by MICCAI 2024 5th ASMUS Workshop and is available at [arXiv](https://arxiv.org/abs/2406.19756)!  
 **[2024/06]**: We were selected into the top ten student innovation and entrepreneurship teams of Tsinghua University - Tsinghua University's highest honor for innovation and entrepreneurship!  
-**[2024/06]**: Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model now is available at [arXiv](http://arxiv.org/abs/2406.13165)!  
+**[2024/06]**: Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model now is available at [Springer](https://link.springer.com/chapter/10.1007/978-3-031-73647-6_6)!  
 **[2024/06]**: Our intelligent autonomous ultrasound robot won the **[Gold Award]()** at the Beijing Challenge Cup Entrepreneurship Competition and was recommended to represent Tsinghua University in national competitions.  
 **[2024/06]**: I was selected for Tsinghua University iCenter's [Maker Star Program](https://mp.weixin.qq.com/s/IeQXQZAgocu6yQmqhvnpnw).  
 **[2024/05]**: **Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model** is early accepted by MICCAI 2024 (Top 11%)!  
