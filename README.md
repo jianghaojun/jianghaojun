@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Sequence-aware Pre-training (Keywords: Vision-Action Pre-training, Sequential modeling, Joint 2D-3D Structure Modeling) (_Under Progress_) [[Paper](https://arxiv.org/abs/2408.15026)]
 - Structure-aware Cardiac World Model (Keywords: Vision-Action Pre-training, Joint 2D-3D Structure Modeling) (_MICCAI'24 5th ASMUS Workshop Oral_) [[Paper](https://arxiv.org/abs/2406.19756)]
 - Cardiac Copilot for Echocardiography Probe Guidance (Keywords: Vision-Action Pre-training, 3D Structure Modeling) (_MICCAI'24 Early Accept_) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_18)]
-- Cross-Modal Adapter (Keywords: Vision-Language Alignment, Text-Image/Video Retrieval) (_Pattern Recognition'24_)     [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324008951)][Code]
+- Cross-Modal Adapter (Keywords: Vision-Language Alignment, Text-Image/Video Retrieval) (_Pattern Recognition'24_)     [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324008951)]
 - Pseudo-Q        (Keywords: Vision-Language Alignment) (_CVPR'22_)                [[Paper](https://arxiv.org/abs/2203.08481)][[Code](https://github.com/LeapLabTHU/Pseudo-Q)]
 - CondenseNetV2   (Keywords: Edge and Lightweight Model Architecture) (_CVPR'21_)                [[Paper](https://arxiv.org/abs/2104.04382)][[Code](https://github.com/jianghaojun/CondenseNetV2)]
 - AdaFocus        (Keywords: Efficicent and Dynamic Video Recognition Framework) (_ICCV'21_)                [[Paper](https://arxiv.org/abs/2105.03245)][[Code](https://github.com/blackfeather-wang/AdaFocus)]
