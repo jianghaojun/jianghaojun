@@ -32,20 +32,19 @@ Here are some ideas to get you started:
 - Awesome Autonomous Medical Ultrasound System [[Repo](https://github.com/jianghaojun/Awesome-Autonomous-Medical-Ultrasound-System)]
 
 ### 💬 News
-**[2024/10]**: **Cross-Modal Adapter for Vision-Language Retrieval** is accepted by Pattern Recognition!  
-**[2024/08]**: **Sequence-aware Pre-training for Echocardiography Probe Guidance** is available at [arXiv](https://arxiv.org/abs/2406.19756)!  
-**[2024/07]**: **Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train** is accepted by MICCAI 2024 5th ASMUS Workshop and is available at [arXiv](https://arxiv.org/abs/2406.19756)!  
+**[2024/10]**: Cross-Modal Adapter for Vision-Language Retrieval is accepted by Pattern Recognition!  
+**[2024/08]**: Sequence-aware Pre-training for Echocardiography Probe Guidance is available at [arXiv](https://arxiv.org/abs/2406.19756)!  
+**[2024/07]**: Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train is accepted by MICCAI 2024 5th ASMUS Workshop and is available at [arXiv](https://arxiv.org/abs/2406.19756)!  
 **[2024/06]**: We were selected into the top ten student innovation and entrepreneurship teams of Tsinghua University - Tsinghua University's highest honor for innovation and entrepreneurship!  
 **[2024/06]**: Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model now is available at [Springer](https://link.springer.com/chapter/10.1007/978-3-031-73647-6_6)!  
 **[2024/06]**: Our intelligent autonomous ultrasound robot won the **[Gold Award]()** at the Beijing Challenge Cup Entrepreneurship Competition and was recommended to represent Tsinghua University in national competitions.  
 **[2024/06]**: I was selected for Tsinghua University iCenter's [Maker Star Program](https://mp.weixin.qq.com/s/IeQXQZAgocu6yQmqhvnpnw).  
-**[2024/05]**: **Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model** is early accepted by MICCAI 2024 (Top 11%)!  
+**[2024/05]**: Cardiac Copilot: Automatic Probe Guidance for Echocardiography with World Model is early accepted by MICCAI 2024 (Top 11%)!  
 **[2024/04]**: Our intelligent autonomous ultrasound robot won the **[Silver Award](https://mp.weixin.qq.com/s/fdXa1T2ZeR5FAWVE7XHFzQ)** at the Tsinghua Challenge Cup Entrepreneurship Competition and was recommended to represent Tsinghua University in Beijing municipal competitions.  
 **[2024/03]**: I was selected for the [Tsinghua University 'Qi Chuang' Student Entrepreneurship Talent Program (20/60000)](https://mp.weixin.qq.com/s/bI7CmFoI8880GtJxMV28Uw) due to our innovative prototype in the field of intelligent autonomous ultrasound robots.  
 **[2024/01]**: Our intelligent autonomous ultrasound robot won the **[First Prize (1/245)](https://mp.weixin.qq.com/s/KjNxJn9RK4nBqRgXhSEPLA)** at the [Global Artificial Intelligence and Robotics Innovation Competition](http://gqcup-os.gqy.tsinghua.edu.cn:8080/) organized by the Guoqiang Research Institute of Tsinghua University.  
 **[2023/12]**: Our intelligent autonomous ultrasound robot has been selected as one of the **Top-10** in the Tsinghua Medical-Engineering Innovation Competition.  
 **[2023/05]**: I will be shifting my focus to the research of autonomous medical ultrasound systems.  
-**[2023/01]**: **Text4Point** now is available at [arXiv](https://arxiv.org/abs/2301.07584). This work propose a novel Text4Point framework to construct **language-guided 3D point cloud models**. The key idea is utilizing 2D images as a bridge to connect the point cloud and the language modalities.    
 **[2022/12]**: A curated list about [Parameter Efficient Transfer Learning](https://github.com/jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning) in computer vision and multimodal is created.  
 **[2022/09]**: An introduction about [Parameter Efficient Transfer Learning](https://cloud.tsinghua.edu.cn/f/73309dec3ea3496db459/?dl=1) is given in [BAAI](https://www.baai.ac.cn/english.html) dynamic neural network seminar.  
 **[2022/07]**: [Glance and Focus Networks for Dynamic Visual Recognition](https://arxiv.org/pdf/2201.03014.pdf) is accepted by TPAMI (IF=24.31)!  
