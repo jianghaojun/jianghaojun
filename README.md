@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 - Structure-aware Cardiac World Model for Echocardiography Probe Guidance (Keywords: Vision-Action Pre-training, Joint 2D-3D Structure Modeling) (_MICCAI'24 5th ASMUS Workshop Oral_) [[Paper](https://arxiv.org/abs/2406.19756)]
 #### Multi-modal Learning 🌈
 - Cross-Modal Adapter (Keywords: Vision-Language Alignment, Text-Image/Video Retrieval) (_**Pattern Recognition'25, IF=7.6**_)     [[Paper-Journal](https://www.sciencedirect.com/science/article/pii/S0031320324008951)][[Paper-arXiv](https://arxiv.org/abs/2211.09623)][[Code](https://github.com/LeapLabTHU/Cross-Modal-Adapter)]
-- Pseudo-Q        (Keywords: Vision-Language Alignment) (_CVPR'22_)                [[Paper](https://arxiv.org/abs/2203.08481)][[Code](https://github.com/LeapLabTHU/Pseudo-Q)]
+- Pseudo-Q        (Keywords: Vision-Language Alignment) (_**CVPR'22**_)                [[Paper](https://arxiv.org/abs/2203.08481)][[Code](https://github.com/LeapLabTHU/Pseudo-Q)]
 #### Efficient Deep Learning 🏃‍♀️
-- CondenseNetV2   (Keywords: Edge and Lightweight Model Architecture) (_CVPR'21_)                [[Paper](https://arxiv.org/abs/2104.04382)][[Code](https://github.com/jianghaojun/CondenseNetV2)]
+- CondenseNetV2   (Keywords: Edge and Lightweight Model Architecture) (_**CVPR'21**_)                [[Paper](https://arxiv.org/abs/2104.04382)][[Code](https://github.com/jianghaojun/CondenseNetV2)]
 - AdaFocus        (Keywords: Efficicent and Dynamic Video Recognition Framework) (_ICCV'21_)                [[Paper](https://arxiv.org/abs/2105.03245)][[Code](https://github.com/blackfeather-wang/AdaFocus)]
 
 ### 😄 Awesome Collections
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - Awesome Autonomous Medical Ultrasound System [[Repo](https://github.com/jianghaojun/Awesome-Autonomous-Medical-Ultrasound-System)]
 
 ### 💬 News
+**[2025/09]**: My paper summarizing my doctoral work, titled "Towards AI-guided Cardiovascular Ultrasonography with Large-scale Implicit Structural Learning" has been accepted by the [MICCAI 2025 Doctoral Consortium](https://miccaimsb.github.io/msb-doctoral25/agenda.html) and I will give an **oral presentation**.    
 **[2025/06]**: Carotid UltraBot is accepted by **Nature Communications** (IF=15.7)! This is [LeapLab](https://www.leaplab.ai/)'s first Nature sub-journal paper. Thanks to all the collaborators.  
 **[2025/01]**: Our humanoid robot intelligent infrastructure project was awarded the [**National Bronze Prize**](https://info.tsinghua.edu.cn/f/info/xxfb_fg/xnzx/template/detail?xxid=c90da402f4ba414eb5d932e18ed6e150#:~:text=3%E3%80%81%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0,%E8%92%8B%E6%98%8A%E5%B3%BB) in the China International College Students Innovation Competition, the [**Beijing Gold Prize**](https://info.tsinghua.edu.cn/f/info/xxfb_fg/xnzx/template/detail?xxid=bbacad1358cf443384018a89b4c7d67c#:~:text=4-,%E5%8C%97%E4%BA%AC%E5%B8%82%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96,%E8%92%8B%E6%98%8A%E5%B3%BB,-%E5%91%A8%E6%99%8B), and was named one of [**Tsinghua University's Top Ten Teams**](https://info.tsinghua.edu.cn/f/info/xxfb_fg/xnzx/template/detail?xxid=bbacad1358cf443384018a89b4c7d67c#:~:text=5-,%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%A0%A1%E8%B5%9B,%E8%92%8B%E6%98%8A%E5%B3%BB,-%E5%91%A8%E6%99%8B).  
 **[2024/11][[Tsinghua News](https://www.tsinghua.edu.cn/info/1660/114985.htm)]**: Our intelligent autonomous ultrasound robot won the National **[Silver Award](https://mp.weixin.qq.com/s/ZNCtsRgxXTYhJwE_Yb0vOg#:~:text=%E4%BE%8B%E4%B8%B4%E5%BA%8A%E5%BA%94%E7%94%A8%E3%80%82-,%E6%99%BA%E6%83%A0%E8%B6%85%E5%A3%B0,%E7%A4%BE%E4%BC%9A%E6%B2%BB%E7%90%86%E5%92%8C%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E8%B5%9B%E9%81%93%20%E9%93%B6%E5%A5%96,-%E6%99%BA%E6%83%A0%E8%B6%85%E5%A3%B0%E5%9B%A2%E9%98%9F)** at the 14th "Challenge Cup" China University Student Entrepreneurship Competition.  
