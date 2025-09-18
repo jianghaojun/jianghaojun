@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Cardiac Copilot for Echocardiography Probe Guidance (Keywords: Vision-Action Pre-training, 3D Structure Modeling) (_**MICCAI'24 Early Accept**_) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_18)]
 - Structure-aware Cardiac World Model for Echocardiography Probe Guidance (Keywords: Vision-Action Pre-training, Joint 2D-3D Structure Modeling) (_MICCAI'24 5th ASMUS Workshop Oral_) [[Paper](https://arxiv.org/abs/2406.19756)]
 
-### Multi-modal Learning 🌈s
+### Multi-modal Learning 🌈
 - Cross-Modal Adapter (Keywords: Vision-Language Alignment, Text-Image/Video Retrieval) (_**Pattern Recognition'25, IF=7.6**_)     [[Paper-Journal](https://www.sciencedirect.com/science/article/pii/S0031320324008951)][[Paper-arXiv](https://arxiv.org/abs/2211.09623)][[Code](https://github.com/LeapLabTHU/Cross-Modal-Adapter)]
 - Pseudo-Q        (Keywords: Vision-Language Alignment) (_**CVPR'22**_)                [[Paper](https://arxiv.org/abs/2203.08481)][[Code](https://github.com/LeapLabTHU/Pseudo-Q)]
 ### Efficient Deep Learning 🏃‍♀️
