@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 #### Echocardiography 🫀     
 - **Autonomous Echocardiography (TTE) Robotic System** (Keywords: Embodied Medical Robot) (_Under Progress_) [[清华自动化系介绍视频Tsinghua DA News](https://mp.weixin.qq.com/s/pOf8tL4XocEi042oNZ3TGQ)][[清华新闻Tsinghua News](https://www.tsinghua.edu.cn/info/1182/112305.htm#:~:text=%E8%81%94%E5%90%88%E9%A2%86%E8%A7%86%E6%99%BA%E8%BF%9C%E7%A0%94%E5%8F%91%E4%BA%86%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%99%BA%E8%83%BD%E5%BF%83%E8%84%8F%E8%B6%85%E5%A3%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E5%AE%9E%E7%8E%B0%E4%BA%86%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%E7%9C%9F%E4%BA%BA%E8%BA%AB%E4%B8%8A%E7%9A%84%E8%87%AA%E4%B8%BB%E5%BF%83%E8%84%8F%E8%B6%85%E5%A3%B0%E6%89%AB%E6%9F%A5%E7%AD%89)][[新京报The Beijing News](https://m.bjnews.com.cn/detail/1718346019129880.html)]
-- Sequence-aware Pre-training for Echocardiography Probe Guidance (Keywords: Vision-Action Pre-training, Sequential modeling, Joint 2D-3D Structure Modeling) (_Under Review_) [[arXiv](https://arxiv.org/abs/2408.15026)]
+- Sequence-aware Pre-training for Echocardiography Probe Guidance (Keywords: Vision-Action Pre-training, Sequential modeling, Joint 2D-3D Structure Modeling) (_Pattern Recognition Revision_) [[arXiv](https://arxiv.org/abs/2408.15026)]
 - Cardiac Copilot for Echocardiography Probe Guidance (Keywords: Vision-Action Pre-training, 3D Structure Modeling) (_**MICCAI'24 Early Accept**_) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_18)]
 - Structure-aware Cardiac World Model for Echocardiography Probe Guidance (Keywords: Vision-Action Pre-training, Joint 2D-3D Structure Modeling) (_MICCAI'24 5th ASMUS Workshop Oral_) [[Paper](https://arxiv.org/abs/2406.19756)]
 
