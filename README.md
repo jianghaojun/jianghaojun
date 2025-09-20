@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 😄 Projects
 ### Summary of Work 📚
-- Towards AI-guided Cardiovascular Ultrasonography with Large-scale Implicit Structural Learning (_[MICCAI 2025 Doctoral Consortium](https://miccaimsb.github.io/msb-doctoral25/agenda.html), **Oral Presentation**_)[Paper]
+- Towards AI-guided Cardiovascular Ultrasonography with Large-scale Implicit Structural Learning (_[MICCAI 2025 Doctoral Consortium](https://miccaimsb.github.io/msb-doctoral25/agenda.html), **Oral Presentation**_)[Paper][[Brief Intro Video](https://drive.google.com/file/d/15azg9NDJsGw8__15pgdd8eD0WSxsRJz3/view?usp=sharing)]
 ### Embodied Medical Robot 🤖
 #### Carotid Artery  
 - Towards Expert-level Autonomous Carotid Ultrasonography with Large-scale Learning-based Robotic System (Highlight: Large-scale Imitation Learning) (_**Nature Communications'25, IF=17.2**_) [[Paper](https://www.nature.com/articles/s41467-025-62865-w)][[Code](https://github.com/LeapLabTHU/UltraBot)][[Demo](https://www.nature.com/articles/s41467-025-62865-w#additional-information:~:text=First%20Demonstration%20of,with%20Plaque%20Video)][[清华新闻Tsinghua News](https://www.tsinghua.edu.cn/info/1175/121057.htm)][[清华自动化新闻Tsinghua DA News](https://mp.weixin.qq.com/s/YJqVwwHct0YfVJLwJC9GwA)][[北京智源报道 BAAI News](https://mp.weixin.qq.com/s/6EvXsRu4S6r53OsUY0rcSQ)][[医工学人报道](https://mp.weixin.qq.com/s/WqzrJ_DXyhiaQs5TVlaDEQ)][[CVer报道](https://mp.weixin.qq.com/s/SEsCNWsoPUPPZqOfBRf2QQ)]
