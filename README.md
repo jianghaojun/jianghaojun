@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 ## 🌱 Academic Services 
 - **Conference Reviewer**: CVPR, ICCV, ECCV
 - **Journal Reviewer**: Medical Image Analysis
+- **Workshop Organizer**: PC Member of 1st MICCAI Workshop on Human-AI Collaboration
 
 ## 📫 Contact 
 Please include a brief note about the reason for reaching out when you contact me. 
