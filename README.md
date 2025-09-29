@@ -3,7 +3,11 @@ My name is Haojun Jiang(蒋昊峻) [[My Google Scholar](https://scholar.google.c
 
 Beginning in May (2023), I will be shifting my focus to the research of medical embodied robotic system. **_Recently, the intelligent [carotid ultrasound robot project](https://github.com/LeapLabTHU/UltraBot) I led was accepted by Nature Communications!_** 
 
-_**I am expected to graduate in June 2026 and am currently exploring future opportunities. If you are interested in my research, please do not hesitate to contact me (Email: jianghaojunthu at 163.com).**_
+I am honored to receive the _**First Runner-Up Award**_ at the MICCAI Doctoral Consortium 2025 for my Ph.D. thesis. This recognition reflects the impactful work we're doing in Robotic Ultrasonography.
+
+I am expected to graduate in June 2026 and am currently exploring future opportunities. If you are interested in my research, please do not hesitate to contact me (Email: jianghaojunthu at 163.com).
+
+<p align="center"> <img src='Award.jpg' align="center" height="750px"> </p>
 
 <!--**jianghaojun/jianghaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -78,8 +82,8 @@ Here are some ideas to get you started:
 - Awesome Autonomous Medical Ultrasound System [[Repo](https://github.com/jianghaojun/Awesome-Autonomous-Medical-Ultrasound-System)]
 
 ## 🌱 Academic Services 
-- **Conference Reviewer**: CVPR, ICCV, ECCV
-- **Journal Reviewer**: Medical Image Analysis
+- **Conference Reviewer**: CVPR, ICCV, ECCV, MICCAI  
+- **Journal Reviewer**: Medical Image Analysis, Scientific Data  
 - **Workshop Organizer**: PC Member of 1st MICCAI Workshop on Human-AI Collaboration
 
 ## 📫 Contact 
