@@ -1,15 +1,6 @@
 ## Hi there 👋
 **_New Homepage is [here](https://jianghaojun.github.io/)!_**
 
-My name is Haojun Jiang(蒋昊峻) [[My Google Scholar](https://scholar.google.com/citations?user=ULmStp8AAAAJ&hl=en)], a fifth-year Ph.D. student in the Department of Automation at Tsinghua University, advised by Prof. [Gao Huang](http://www.gaohuang.net/). Before that, I received my B.E. degree in Automation at Tsinghua University. 😄
-
-Beginning in May (2023), I will be shifting my focus to the research of medical embodied robotic system. **_Recently, the intelligent [carotid ultrasound robot project](https://github.com/LeapLabTHU/UltraBot) I led was accepted by Nature Communications!_** 
-
-I am honored to receive the _**First Runner-Up Award**_ at the MICCAI Doctoral Consortium 2025 for my Ph.D. thesis. This recognition reflects the impactful work we're doing in Robotic Ultrasonography.
-
-I am expected to graduate in June 2026 and am currently exploring future opportunities. If you are interested in my research, please do not hesitate to contact me (Email: jianghaojunthu at 163.com).
-
-<p align="center"> <img src='Award.jpg' align="center" height="750px"> </p>
 
 <!--**jianghaojun/jianghaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+My name is Haojun Jiang(蒋昊峻) [[My Google Scholar](https://scholar.google.com/citations?user=ULmStp8AAAAJ&hl=en)], a fifth-year Ph.D. student in the Department of Automation at Tsinghua University, advised by Prof. [Gao Huang](http://www.gaohuang.net/). Before that, I received my B.E. degree in Automation at Tsinghua University. 😄
+
+Beginning in May (2023), I will be shifting my focus to the research of medical embodied robotic system. **_Recently, the intelligent [carotid ultrasound robot project](https://github.com/LeapLabTHU/UltraBot) I led was accepted by Nature Communications!_** 
+
+I am honored to receive the _**First Runner-Up Award**_ at the MICCAI Doctoral Consortium 2025 for my Ph.D. thesis. This recognition reflects the impactful work we're doing in Robotic Ultrasonography.
+
+I am expected to graduate in June 2026 and am currently exploring future opportunities. If you are interested in my research, please do not hesitate to contact me (Email: jianghaojunthu at 163.com).
+
+<p align="center"> <img src='Award.jpg' align="center" height="750px"> </p>
 ## 😄 Projects
 ### Summary of Work (A Brief Version of My Ph.D. Thesis) 📚
 - Towards AI-guided Cardiovascular Ultrasonography with Large-scale Implicit Structural Learning (_[MICCAI 2025 Doctoral Consortium](https://miccaimsb.github.io/msb-doctoral25/agenda.html), **First Runner-Up Award & Long Oral Presentation**_)[Paper][[Brief Intro Video](https://drive.google.com/file/d/15azg9NDJsGw8__15pgdd8eD0WSxsRJz3/view?usp=sharing)][[Poster](https://drive.google.com/file/d/1s6SCthU5roCoVnWnm7AFCjz-4AqOdQ9Z/view?usp=sharing)]
@@ -48,6 +49,7 @@ Here are some ideas to get you started:
 ## Award
 - MICCAI Doctoral Consortium First Runner-Up Award (Second Place) for My Ph.D. Thesis (2025) [[Photo](https://drive.google.com/file/d/1WsTrBcYbeNuN6BubFezQugSxWc7XHyMB/view?usp=sharing)]
 - Tsinghua Outstanding Graduate (2020)
+
 
 ## 💬 News
 **[2025/09]**: I am honored to receive the **[First Runner-Up Award](https://drive.google.com/file/d/1WsTrBcYbeNuN6BubFezQugSxWc7XHyMB/view?usp=sharing)** (Second Place) at the MICCAI Doctoral Consortium for my Ph.D. thesis. This recognition reflects the impactful work we're doing in Robotic Ultrasonography.  
@@ -92,6 +94,7 @@ Here are some ideas to get you started:
 Please include a brief note about the reason for reaching out when you contact me. 
 - E-mail：jianghaojunthu at 163.com  
 - Wechat：LebronJames5Champ
+ -->
 
 ## ✨ GitHub Stats 
 [![Haojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianghaojun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
